@@ -12,4 +12,4 @@ __pycache__/
 *.pyc
 .DS_Store
 Dataset/
-model/  # 如果 model 文件夹里放的是下载的大权重文件，也要忽略；如果是代码则保留
+model/
