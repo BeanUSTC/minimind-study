@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Dataset/
+model/  # 如果 model 文件夹里放的是下载的大权重文件，也要忽略；如果是代码则保留
